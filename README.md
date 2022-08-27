@@ -1,1 +1,2 @@
-# Teja_25
+# Ken_Portfolio
+A data science portfolio of Ken Jee.
